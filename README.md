@@ -6,7 +6,7 @@
 
 ## Overview
 
-Marketing spend in the two-wheeler sector is distributed across a wide range of channels — digital ads, dealership incentives, on-ground activations, and more. Without rigorous measurement, budgets tend to stay where they are rather than where they work.
+Marketing spend in the two-wheeler sector is distributed across a wide range of channels such as digital ads, dealership incentives, on-ground activations, and more. Without rigorous measurement, budgets tend to stay where they are rather than where they work.
 
 This project maps **marketing spend against sales conversion rates** to calculate ROI per channel, identifies underperforming allocations, and produces a data-backed recommendation for budget reallocation.
 
