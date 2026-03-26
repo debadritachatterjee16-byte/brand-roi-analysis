@@ -1,6 +1,6 @@
 # Brand Performance & ROI Analysis | Two-Wheeler Sector
 
-> Evaluating marketing channel effectiveness and dealership incentive ROI — enabling a 10% budget reallocation toward higher-converting digital campaigns.
+> Evaluating marketing channel effectiveness and dealership incentive ROI : enabling a 10% budget reallocation toward higher-converting digital campaigns.
 
 ---
 
