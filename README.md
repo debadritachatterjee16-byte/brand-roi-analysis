@@ -144,5 +144,5 @@ Channel: Print Advertising
 
 ## Contact
 
-**[Your Name]**
-[LinkedIn URL] | [Email]
+Name: Debadrita Chatterjee
+Email: debadrita.chatterjee16@gmail.com
